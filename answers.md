@@ -12,7 +12,7 @@ c) +
 
 d) -
 
-#####Answer a
+#####Answer b
 ---
 2.What symbol is used to separate directories and files in a path?
 
